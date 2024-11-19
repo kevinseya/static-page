@@ -3,7 +3,7 @@ name: Deploy Static HTML to EC2
 on:
   push:
     branches:
-      - main  # Ejecuta solo en la rama main
+      - main  # Ejecuta solo en la rama main 
 
 jobs:
   deploy:
