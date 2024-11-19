@@ -1,0 +1,2 @@
+"# static-page"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/kevinseya/static-page.gitgit push -u origin main
+"# static-page"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/kevinseya/static-page.gitgit push -u origin main
